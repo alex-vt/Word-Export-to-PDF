@@ -1,6 +1,6 @@
 ## Overview
 
-These scripts enable exporting Word 2013 documents (DOCX and DOC) to PDF from the context menu.
+These scripts enable exporting Word 2013 documents (DOCX and DOC) to PDF from the context menu. Up to 15 documents at once.
 
 ![How to use](https://raw.github.com/oleksiykovtun/Word-Export-to-PDF/master/how-to-use.png)
 
